@@ -1,0 +1,10 @@
+{
+  "description": "Browse aquarium and pet supplies, compare prices and offers, and enquire or order via WhatsApp from a local Selaiyur pet shop.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

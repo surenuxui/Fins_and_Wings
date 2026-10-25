@@ -1,0 +1,139 @@
+{
+  "_readme": "Website text. Change only the words between the quote marks. Keep every quote, comma and bracket. Images: see HOW_TO_EDIT.md.",
+  "shop": {
+    "name": "Fins & Wings Aquarium and Pet Shop",
+    "subtitle": "AQUARIUM & PET SHOP",
+    "address": "Opposite Tarts, Velachery Main Road, Selaiyur, Tambaram, Chennai, Tamil Nadu 600073",
+    "phone": "+91 87545 59415",
+    "whatsapp": "918754559415",
+    "hours": "10 AM–10 PM daily",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fins+and+Wings+Aquarium+and+Pet+Shop+Selaiyur"
+  },
+  "hero": {
+    "eyebrow": "SELAIYUR · TAMBARAM · CHENNAI",
+    "title": "Make room for little wonders.",
+    "copy": "Aquarium essentials and pet supplies for the companions that make your world brighter.",
+    "image": "",
+    "trust": [
+      "Easy WhatsApp ordering",
+      "Same Day delivery",
+      "Free delivery within {freeDeliveryMaxKm} km above {freeDeliveryAbove}"
+    ]
+  },
+  "promotion": {
+    "eyebrow": "A LITTLE EXTRA FOR YOUR AQUARIUM",
+    "title": "A small treat, on us.",
+    "copy": "Get a free OSAKi Basic Fish Food 100g with qualifying purchases.",
+    "conditions": "While stocks last. Ask the shop for qualifying purchase details",
+    "expiry": "Offer period subject to shop confirmation",
+    "image": "promo.jpg"
+  },
+  "feature": {
+    "title": "Better care. Happier aquatic life.",
+    "copy": "Thoughtfully selected food, filtration and everyday essentials to help your aquarium thrive.",
+    "image": "feature.jpg",
+    "cta": "Shop essentials"
+  },
+  "delivery": {
+    "terms": "Delivery is available up to {maxDistanceKm} km by road; it is free above {freeDeliveryAbove} within {freeDeliveryMaxKm} km and always charged beyond that from our shop, subject to stock, product size and confirmation from our shop. Live fish and live products are Visit Shop Only."
+  },
+  "about": {
+    "copy": "We’re a neighbourhood aquarium and pet shop bringing together dependable everyday supplies, aquarium care and friendly local guidance. Visit us to explore products in person or message us for availability.",
+    "image": "about.jpg"
+  },
+  "enquiry": {
+    "image": "enquiry.jpg",
+    "types": [
+      "Product availability",
+      "Aquarium and fish food",
+      "Aquarium tanks and accessories",
+      "Bird products and cages",
+      "Bulk order",
+      "Delivery enquiry",
+      "Existing order",
+      "Other"
+    ],
+    "contactMethods": [
+      "WhatsApp",
+      "Phone Call"
+    ]
+  },
+  "policies": [
+    {
+      "title": "Offers and Conditions",
+      "content": "Prices, offers and stock must be confirmed before purchase. Promotions are subject to their stated conditions and availability, and may be changed or withdrawn by the shop."
+    },
+    {
+      "title": "Terms and Conditions",
+      "content": "WhatsApp enquiries do not constitute confirmed orders until the shop replies. Large, fragile or live products may require collection or separate delivery arrangements. Final delivery charges are confirmed by the shop."
+    },
+    {
+      "title": "Privacy Policy",
+      "content": "This static website does not collect card details or process payments. If you contact us through WhatsApp or phone, your information is handled through those services and used only to respond to your enquiry."
+    }
+  ],
+  "nav": [
+    {
+      "label": "Home",
+      "target": "home"
+    },
+    {
+      "label": "Shop",
+      "target": "shop"
+    },
+    {
+      "label": "Categories",
+      "target": "categories"
+    },
+    {
+      "label": "Delivery",
+      "target": "delivery-check"
+    },
+    {
+      "label": "Offers",
+      "target": "offers"
+    },
+    {
+      "label": "About Us",
+      "target": "about-us"
+    },
+    {
+      "label": "Contact",
+      "target": "enquiry"
+    }
+  ],
+  "usp": {
+    "eyebrow": "WHY FINS & WINGS",
+    "title": "Know your delivery fee\nbefore you order.",
+    "copy": "No guessing, no surprises. Check your exact road distance and delivery cost in seconds.",
+    "cta": "Check my delivery",
+    "items": [
+      {
+        "title": "Instant delivery check",
+        "text": "Enter your address and see the real road distance and fee on a live map."
+      },
+      {
+        "title": "Free delivery above {freeDeliveryAbove}",
+        "text": "Orders above {freeDeliveryAbove} within {freeDeliveryMaxKm} km are delivered free. Farther deliveries are always charged."
+      },
+      {
+        "title": "Fair, transparent pricing",
+        "text": "Orders of {freeDeliveryAbove} or less pay {baseFee} + {perKmFee} per km. The fee is always shown in full."
+      },
+      {
+        "title": "Live fish: visit the shop",
+        "text": "We never ship live fish. Handpick yours in person so they stay healthy."
+      }
+    ]
+  },
+  "banners": [],
+  "payment": {
+    "eyebrow": "PAY EASILY",
+    "title": "Scan to pay",
+    "copy": "Pay for your order using any UPI app: Google Pay, PhonePe, Paytm or your bank app.",
+    "payeeName": "Fins & Wings Aquarium and Pet Shop",
+    "upiId": "",
+    "qrImage": "payment-qr.png",
+    "note": "Please check that the shop name shows correctly in your UPI app before you pay."
+  }
+}

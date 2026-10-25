@@ -1,0 +1,31 @@
+{
+  "_readme": "Delivery settings. Change numbers only (keep the quotes and commas). See HOW_TO_EDIT.md, section 'Delivery checker'.",
+  "shop": {
+    "latitude": 12.922830513240196,
+    "longitude": 80.13786218466,
+    "_howToFill": "Open Google Maps, right-click the exact shop door, click the two numbers shown to copy them. First number = latitude, second = longitude. Or open the website with ?setup=1 at the end of the address and click the shop on the map."
+  },
+  "rules": {
+    "freeDeliveryAbove": 399,
+    "freeDeliveryMaxKm": 5,
+    "maxDistanceKm": 25,
+    "baseFee": 30,
+    "perKmFee": 10
+  },
+  "providers": {
+    "geocodeUrl": "https://nominatim.openstreetmap.org/search",
+    "reverseUrl": "https://nominatim.openstreetmap.org/reverse",
+    "routeUrl": "https://router.project-osrm.org/route/v1/driving",
+    "countryCodes": "in",
+    "autoSuggest": false,
+    "suggestDebounceMs": 900,
+    "timeoutMs": 12000,
+    "maxSnapMeters": 500
+  },
+  "map": {
+    "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+    "attribution": "Map data © <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\" rel=\"noreferrer\">OpenStreetMap</a> contributors · Routing © <a href=\"https://project-osrm.org/\" target=\"_blank\" rel=\"noreferrer\">OSRM</a> · Search © Nominatim",
+    "zoom": 13,
+    "setupCenter": [13.0827, 80.2707]
+  }
+}
