@@ -1,5 +1,9 @@
+
 #!/usr/bin/env bash
 set -euo pipefail
-# Build in development mode to emit sourcemaps.
-pnpm run build --mode development
-figma make deploy-preview --build-dir dist
+
+# Build the production website
+pnpm run build
+
+echo "Build completed successfully."
+echo "The production files are available in the dist folder."

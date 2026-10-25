@@ -1,4 +1,9 @@
+
 #!/usr/bin/env bash
 set -euo pipefail
+
+# Build the production website
 pnpm run build
-figma make deploy --build-dir dist
+
+# Output production files to dist/
+echo "Build successful. Ready for Vercel deployment."
